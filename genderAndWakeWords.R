@@ -21,6 +21,7 @@ margTab
 
 # chi-square test of significance
 chisq.test(margTab)
+sum(margTab)
 
 # results are significant @ p < 0.5 (reasonable for this sample size)
 
